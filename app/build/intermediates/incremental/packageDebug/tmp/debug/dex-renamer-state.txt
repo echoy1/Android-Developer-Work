@@ -1,0 +1,4 @@
+#Thu May 20 16:01:27 EDT 2021
+base.0=C\:\\Users\\infer\\AndroidStudioProjects\\UIBasics2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

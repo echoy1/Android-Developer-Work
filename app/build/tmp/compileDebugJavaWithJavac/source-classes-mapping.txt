@@ -1,0 +1,5 @@
+com/example/uibasics2/BuildConfig.java
+ com.example.uibasics2.BuildConfig
+com/example/uibasics2/MainActivity.java
+ com.example.uibasics2.MainActivity
+ com.example.uibasics2.MainActivity$1
